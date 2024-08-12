@@ -4,14 +4,11 @@
   <a href="https://github.com/Quantum3-Labs/scaffold-stark-2">Scaffold Stark</a> |
   <a href="https://github.com/Quantum3-Labs/speedrunstark/">Speedrun Stark</a> |
   <a href="https://www.docs.scaffoldstark.com/">Documentation</a>
-
 </h4>
 
 Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated list of amazing projects built with Scaffold Stark. Explore these projects to dive deeper into the Starknet ecosystem.
 
 ## 📚 Showcase
-
-Aquí está la lista reorganizada con las descripciones revisadas, y los repositorios sin descripción al final:
 
 1. **[Solas](https://github.com/krisoshea-eth/Solas)**: Explore the schemas or create a new schema, start making attestations on existing schemas using Solas. 
 2. **[Chipi Stark](https://github.com/ArturVargas/chipi-stark)**: Crypto to fiat payments for small businesses with a web2 experience.
