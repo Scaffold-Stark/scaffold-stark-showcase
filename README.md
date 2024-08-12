@@ -13,7 +13,7 @@ Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated l
 
 1. **[Solas](https://github.com/krisoshea-eth/Solas)**: Explore the schemas or create a new schema, start making attestations on existing schemas using Solas 
 2. **[Chipi Stark](https://github.com/ArturVargas/chipi-stark)**: Crypto to fiat payments for small businesses with a web2 experience
-3. **[Starticle](https://github.com/ChiHaoLu/starticle)**
+3. **[Starticle](https://github.com/ChiHaoLu/starticle)**: Unlock a new dimension of decentralized publication dapp with Starticle,
 4. **[Stark Schedule](https://github.com/seetadev/stark-schedule)**
 5. **[A Better Job](https://github.com/brahmapsen/abetterjob)**
 6. **[Chain Notify](https://github.com/FidalMathew/ChainNotify)**
