@@ -32,7 +32,7 @@ Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated l
 
 ## Educational Purposes
 
-We will be adding resources related to workshops, live coding, hackathons, basecamps, and other educational content connected to our project. Stay tuned for updates!
+We will be adding resources related to workshops, live coding, hackathons, basecamps, and other educational content related to our project. Stay tuned for updates!
 
 - [Vietnam Starknet - Basecamp](https://www.youtube.com/watch?v=4V00zQ1Wvyw): Watch live coding sessions by deLabs on Starknet using ScaffoldStark to deliver dApps in just one hour, and get a brief introduction to OnlyDust_com for those seeking opportunities in the web3 space.
 - [Sessions Course - Open Build](https://openbuild.xyz/learn/challenges/2037971949/1718363560): In lesson 4 of the DeFi course on OpenBuildxyz, Asten will guide you through interacting with @Starknet and demonstrate how Scaffold Stark can help you quickly build DApps. 
