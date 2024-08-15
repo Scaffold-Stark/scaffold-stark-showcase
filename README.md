@@ -4,6 +4,7 @@
   <a href="https://github.com/Quantum3-Labs/scaffold-stark-2">Scaffold Stark</a> |
   <a href="https://github.com/Quantum3-Labs/speedrunstark/">Speedrun Stark</a> |
   <a href="https://www.docs.scaffoldstark.com/">Documentation</a>
+
 </h4>
 
 Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated list of amazing projects built with Scaffold Stark. Explore these projects to dive deeper into the Starknet ecosystem.
@@ -22,17 +23,20 @@ Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated l
 10. **[Sparky Swap](https://github.com/kfastov/sparky-swap)**: A coincidence-of-wants swap implementation on Starknet.
 11. **[ParkGHO Family](https://github.com/seetadev/ParkGHO-Family)**: Revolutionizing Sustainable Mobility & Road Safety.
 12. **[OpenMark Cairo Examples](https://github.com/grindytech/openmark-cairo-examples)**: OpenMark Cairo Smart Contracts.
-13. **[RootPE](https://github.com/AjiteshBD/rootpe)**: Rootpe is an innovative payment and trade application built on StarkNet, designed to offer a seamless, secure, and scalable user experience.
-14. **[Chain Notify](https://github.com/FidalMathew/ChainNotify)**
-15. **[StarkAI](https://github.com/george-hub331/starkAI)**
-16. **[StarkPool Front-End](https://github.com/StarkPool/StarkPool-front-end)**
-17. **[P-Share](https://github.com/Afrilend/p-share)**
-18. **[HackerHouser Starknet Brazil](https://github.com/salvadorcamino/hackerhouser_starknet_inbrazil_react_dapp)**
-19. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**
+13. **[RootPE](https://github.com/AjiteshBD/rootpe)**: Rootpe is an innovative payment and trade application built on Starknet, designed to offer a seamless, secure, and scalable user experience.
+14. **[Eth-Stark](https://github.com/jrcarlos2000/eth-stark-dapp)**: This platform enables users to create and support crowdfunding campaigns across Ethereum and Starknet seamlessly.
+15. **[Squads Goals](https://github.com/Quantum3-Labs/squad-goals)**:  A unique blend of blockchain technology, social community, and a game-like system designed to promote self-improvement and growth.
+16. **[Starknet Wallet Recovery](https://github.com/Quantum3-Labs/starknet-wallet-recovery)**: Quickly recover your tokens if they have been compromised. Insert the new address the Starknet where you want to send the tokens, and fund your wallet with 0.001 ETH to execute the transaction.
+17. **[Chain Notify](https://github.com/FidalMathew/ChainNotify)**
+18. **[StarkAI](https://github.com/george-hub331/starkAI)**
+19. **[StarkPool Front-End](https://github.com/StarkPool/StarkPool-front-end)**
+20. **[P-Share](https://github.com/Afrilend/p-share)**
+21. **[HackerHouser Starknet Brazil](https://github.com/salvadorcamino/hackerhouser_starknet_inbrazil_react_dapp)**
+22. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**
 
 ## Educational Purposes
 
-We will be adding resources related to workshops, live coding, hackathons, basecamps, and other educational content related to our project. Stay tuned for updates!
+We will be adding resources related to workshops, live coding, hacks, basecamps, and other educational content connected to our project. Stay tuned for updates!
 
 - [Vietnam Starknet - Basecamp](https://www.youtube.com/watch?v=4V00zQ1Wvyw): Watch live coding sessions by deLabs on Starknet using ScaffoldStark to deliver dApps in just one hour, and get a brief introduction to OnlyDust_com for those seeking opportunities in the web3 space.
 - [Sessions Course - Open Build](https://openbuild.xyz/learn/challenges/2037971949/1718363560): In lesson 4 of the DeFi course on OpenBuildxyz, Asten will guide you through interacting with @Starknet and demonstrate how Scaffold Stark can help you quickly build DApps. 
