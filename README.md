@@ -41,7 +41,7 @@ We will be adding resources related to workshops, live coding, hacks, basecamps,
 - [Vietnam Starknet - Basecamp](https://www.youtube.com/watch?v=4V00zQ1Wvyw): Watch live coding sessions by deLabs on Starknet using ScaffoldStark to deliver dApps in just one hour, and get a brief introduction to OnlyDust_com for those seeking opportunities in the web3 space.
 - [Sessions Course - Open Build](https://openbuild.xyz/learn/challenges/2037971949/1718363560): In lesson 4 of the DeFi course on OpenBuildxyz, Asten will guide you through interacting with @Starknet and demonstrate how Scaffold Stark can help you quickly build DApps. 
 - [Live Coding - StarknetEs](https://www.youtube.com/live/ervAv-v7b5Q): The StarknetEs community hosted a live coding session showcasing Scaffold Stark with Gian y Edu, demonstrating how to rapidly develop web applications on Starknet through a hands-on walkthrough of its features and functionalities.
-- [StarkHack - ETHGlobal](https://www.youtube.com/live/9Opoh2LB6bo): Join Carlos Ramos of the Starknet Foundation for a workshop titled, "Scaffolding Web Apps on Starknet," which will show how to quickly develop web apps on Starknet using scaffold-stark.
+- [StarkHack - ETHGlobal](https://www.youtube.com/live/9Opoh2LB6bo): Join Carlos Ramos, Starknet ambassador, in a workshop titled, "Scaffolding Web Apps on Starknet," which will show how to quickly develop web apps on Starknet using scaffold-stark.
 - [Jueves de Cairo - StarknetEs](https://www.youtube.com/live/zFACnQh0bL0): Exploring the potential of Scaffold-Stark with Nadai in one of the first official presentations of this tool kit, designed for building quickly dApps on Starknet without friction.
 
 ## 🤝 Contributing
