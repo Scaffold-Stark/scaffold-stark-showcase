@@ -1,8 +1,8 @@
 # 🚀 Scaffold-Stark Showcase
 
 <h4 align="center">
-  <a href="https://github.com/Quantum3-Labs/scaffold-stark-2">Scaffold Stark</a> |
-  <a href="https://github.com/Quantum3-Labs/speedrunstark/">Speedrun Stark</a> |
+  <a href="https://github.com/Scaffold-Stark/scaffold-stark-2">Scaffold Stark</a> |
+  <a href="https://github.com/Scaffold-Stark/speedrunstark/">Speedrun Stark</a> |
   <a href="https://www.docs.scaffoldstark.com/">Documentation</a>
 
 </h4>
