@@ -4,43 +4,74 @@
   <a href="https://github.com/Scaffold-Stark/scaffold-stark-2">Scaffold Stark</a> |
   <a href="https://github.com/Scaffold-Stark/speedrunstark/">Speedrun Stark</a> |
   <a href="https://www.docs.scaffoldstark.com/">Documentation</a>
-
 </h4>
 
 Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated list of amazing projects built with Scaffold Stark. Explore these projects to dive deeper into the Starknet ecosystem.
 
 ## 📚 Showcase
+1. **[The Marquis](https://github.com/Quantum3-Labs/TheMarquis-ui)**: 
+   A revolutionary game studio offering real asset ownership, trading, and true randomness. A series of Starknet games will be available on GooglePlay and the App Store.<br>
+   <a href="https://starknet.notion.site/The-Marquis-9d70163eb80749f9b0b6225ad9f864c7" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
+   SEED GRANT
+   </a>
 
-1. **[Solas](https://github.com/krisoshea-eth/Solas)**: Explore the schemas or create a new schema, start making attestations on existing schemas using Solas. 
-2. **[Chipi Stark](https://github.com/ArturVargas/chipi-stark)**: Crypto to fiat payments for small businesses with a web2 experience.
-3. **[Starticle](https://github.com/ChiHaoLu/starticle)**: Unlock a new dimension of decentralized publication dapp with Starticle.
-4. **[Stark Schedule](https://github.com/seetadev/stark-schedule)**: Web3 tools for patients to enable management of diabetes easily by keeping a track of blood sugar along with meals and exercise using Starknet.
-5. **[A Better Job](https://github.com/brahmapsen/abetterjob)**: A better job portal to create symbiosis between an employer and potential employee. 
-6. **[StarkHack P2P Lending](https://github.com/bowbowzai/starkhack-p2p-lending)**: StarkStorm is the P2P lending version of Stormbit on Starknet.
-7. **[Reputation](https://github.com/carlosvaztec/reputation)**: Trustworthy verifiable long lasting relationships for Businesses and Consumers. 
-8. **[Veil Of Echoes](https://github.com/Shachindra/VeilOfEchoes)**: Game where you navigate reality and the supernatural, where every choice echoes through time. Can you unveil the past to save your future?
-9. **[Shaboy](https://github.com/AslamSDM/shaboy)**: The concept behind Shaboy draws inspiration from gaming consoles that dominated the 90s era, built on Starknet.
-10. **[Sparky Swap](https://github.com/kfastov/sparky-swap)**: A coincidence-of-wants swap implementation on Starknet.
-11. **[ParkGHO Family](https://github.com/seetadev/ParkGHO-Family)**: Revolutionizing Sustainable Mobility & Road Safety.
-12. **[OpenMark Cairo Examples](https://github.com/grindytech/openmark-cairo-examples)**: OpenMark Cairo Smart Contracts.
-13. **[RootPE](https://github.com/AjiteshBD/rootpe)**: Rootpe is an innovative payment and trade application built on Starknet, designed to offer a seamless, secure, and scalable user experience.
-14. **[Eth-Stark-Dapp](https://github.com/jrcarlos2000/eth-stark-dapp)**: This platform enables users to create and support crowdfunding campaigns across Ethereum and Starknet seamlessly.
-15. **[Squads Goals](https://github.com/Quantum3-Labs/squad-goals)**:  A unique blend of blockchain technology, social community, and a game-like system designed to promote self-improvement and growth.
-16. **[Starknet Wallet Recovery](https://github.com/Quantum3-Labs/starknet-wallet-recovery)**: Quickly recover your tokens if they have been compromised. Insert the new address the Starknet where you want to send the tokens, and fund your wallet with 0.001 ETH to execute the transaction.
-17. **[Chain Notify](https://github.com/FidalMathew/ChainNotify)**
-18. **[StarkAI](https://github.com/george-hub331/starkAI)**
-19. **[StarkPool Front-End](https://github.com/StarkPool/StarkPool-front-end)**
-20. **[P-Share](https://github.com/Afrilend/p-share)**
-21. **[HackerHouser Starknet Brazil](https://github.com/salvadorcamino/hackerhouser_starknet_inbrazil_react_dapp)**
-22. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**
-23. **[Incarnation](https://github.com/IncarnationGG/incarnation-dapp)**: A decentralized trading card game platform created for players, by players.
-24. **[The Marquis](https://github.com/Quantum3-Labs/TheMarquis-ui)**: A revolutionary game studio offering real asset ownership, trading, and true randomness. A series of Starknet games will be available on GooglePlay and the App Store.
+2. **[Chipi Stark](https://github.com/ArturVargas/chipi-stark)**: 
+   Crypto to fiat payments for small businesses with a web2 experience.<br>
+   <a href="https://starknet.notion.site/Chipi-Pay-42102cdac91845ef81f58cf91a219bba" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
+   SEED GRANT
+   </a>
 
-## Seed Grants
+3. **[Incarnation](https://github.com/IncarnationGG/incarnation-dapp)**: 
+   A decentralized trading card game platform created for players, by players.<br>
+   <a href="https://starknet.notion.site/Incarnation-0742592cdbc24da5a57cc913e43e744a" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
+   SEED GRANT
+   </a>
 
-The **Starknet Foundation** offers **Seed Grants**, a series of financial grants aimed at supporting innovative projects in their early stages of development within the Starknet ecosystem. These grants are designed to help early-stage projects grow and develop. Additionally, we aim to highlight dApps that are using the **Scaffold Stark toolkit** to build their projects quickly and seamlessly, and that have either received or could potentially receive a **Seed Grant**. Our goal is to support their growth and scalability by providing essential resources to bring innovative ideas to life.
+4. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**: 
+   StarkSight is a no-loss prediction market on Starknet where users bet on events without risk. It combines features from existing projects, using protocols like Nimbora to generate yield and distribute winnings while refunding initial bets.<br>
+   <a href="https://x.com/thestarksight/status/1836717720143823047" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
+   SEED GRANT
+   </a>
 
-More information about Seed Grants: [Starknet Seed Grants](https://www.starknet.io/grants/seed-grants/).
+5. **[Starticle](https://github.com/ChiHaoLu/starticle)**: Unlock a new dimension of decentralized publication dapp with Starticle.
+
+6.  **[Solas](https://github.com/krisoshea-eth/Solas)**: Explore the schemas or create a new schema, start making attestations on existing schemas using Solas. 
+
+7. **[StarkHack P2P Lending](https://github.com/bowbowzai/starkhack-p2p-lending)**: StarkStorm is the P2P lending version of Stormbit on Starknet.
+
+8. **[Reputation](https://github.com/carlosvaztec/reputation)**: Trustworthy verifiable long-lasting relationships for Businesses and Consumers. 
+
+9. **[Veil Of Echoes](https://github.com/Shachindra/VeilOfEchoes)**: Game where you navigate reality and the supernatural, where every choice echoes through time. Can you unveil the past to save your future?
+
+10. **[Shaboy](https://github.com/AslamSDM/shaboy)**: The concept behind Shaboy draws inspiration from gaming consoles that dominated the 90s era, built on Starknet.
+
+11. **[Sparky Swap](https://github.com/kfastov/sparky-swap)**: A coincidence-of-wants swap implementation on Starknet.
+
+12. **[ParkGHO Family](https://github.com/seetadev/ParkGHO-Family)**: Revolutionizing Sustainable Mobility & Road Safety.
+
+13. **[OpenMark Cairo Examples](https://github.com/grindytech/openmark-cairo-examples)**: OpenMark Cairo Smart Contracts.
+
+14. **[RootPE](https://github.com/AjiteshBD/rootpe)**: Rootpe is an innovative payment and trade application built on Starknet, designed to offer a seamless, secure, and scalable user experience.
+
+15. **[Eth-Stark-Dapp](https://github.com/jrcarlos2000/eth-stark-dapp)**: This platform enables users to create and support crowdfunding campaigns across Ethereum and Starknet seamlessly.
+
+16. **[Squads Goals](https://github.com/Quantum3-Labs/squad-goals)**: A unique blend of blockchain technology, social community, and a game-like system designed to promote self-improvement and growth.
+
+17. **[Starknet Wallet Recovery](https://github.com/Quantum3-Labs/starknet-wallet-recovery)**: Quickly recover your tokens if they have been compromised. Insert the new address in Starknet where you want to send the tokens, and fund your wallet with 0.001 ETH to execute the transaction.
+
+18. **[Chain Notify](https://github.com/FidalMathew/ChainNotify)**
+
+19. **[StarkAI](https://github.com/george-hub331/starkAI)**
+
+20. **[StarkPool Front-End](https://github.com/StarkPool/StarkPool-front-end)**
+
+21. **[P-Share](https://github.com/Afrilend/p-share)**
+
+22. **[HackerHouser Starknet Brazil](https://github.com/salvadorcamino/hackerhouser_starknet_inbrazil_react_dapp)**
+
+23. **[A Better Job](https://github.com/brahmapsen/abetterjob)**: A better job portal to create symbiosis between an employer and potential employee.
+
+24. **[Stark Schedule](https://github.com/seetadev/stark-schedule)**: Web3 tools for patients to enable management of diabetes easily by keeping a track of blood sugar along with meals and exercise using Starknet.
 
 ## Educational Purposes
 
