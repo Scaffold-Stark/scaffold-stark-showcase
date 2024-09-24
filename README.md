@@ -9,30 +9,21 @@
 Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated list of amazing projects built with Scaffold Stark. Explore these projects to dive deeper into the Starknet ecosystem.
 
 ## 📚 Showcase
-1. **[The Marquis](https://github.com/Quantum3-Labs/TheMarquis-ui)**: 
-   A revolutionary game studio offering real asset ownership, trading, and true randomness. A series of Starknet games will be available on GooglePlay and the App Store.<br>
-   <a href="https://starknet.notion.site/The-Marquis-9d70163eb80749f9b0b6225ad9f864c7" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
-   SEED GRANT
-   </a>
+1. **[The Marquis](https://github.com/Quantum3-Labs/TheMarquis-ui)** 
+   A revolutionary game studio offering real asset ownership, trading, and true randomness. A series of Starknet games will be available on GooglePlay and the App Store. [🚀 **SEED GRANT**](https://starknet.notion.site/The-Marquis-9d70163eb80749f9b0b6225ad9f864c7): 
+
 
 2. **[Chipi Stark](https://github.com/ArturVargas/chipi-stark)**: 
-   Crypto to fiat payments for small businesses with a web2 experience.<br>
-   <a href="https://starknet.notion.site/Chipi-Pay-42102cdac91845ef81f58cf91a219bba" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
-   SEED GRANT
-   </a>
+   Crypto to fiat payments for small businesses with a web2 experience. [🚀 **SEED GRANT**](https://starknet.notion.site/Chipi-Pay-42102cdac91845ef81f58cf91a219bba)  
+  
 
 3. **[Incarnation](https://github.com/IncarnationGG/incarnation-dapp)**: 
-   A decentralized trading card game platform created for players, by players.<br>
-   <a href="https://starknet.notion.site/Incarnation-0742592cdbc24da5a57cc913e43e744a" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
-   SEED GRANT
-   </a>
+   A decentralized trading card game platform created for players, by players. [🚀 **SEED GRANT**](https://starknet.notion.site/Incarnation-0742592cdbc24da5a57cc913e43e744a)
+   
 
 4. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**: 
-   StarkSight is a no-loss prediction market on Starknet where users bet on events without risk. It combines features from existing projects, using protocols like Nimbora to generate yield and distribute winnings while refunding initial bets.<br>
-   <a href="https://x.com/thestarksight/status/1836717720143823047" style="background-color: #90EE90; color: #000; padding: 5px; border-radius: 5px; margin-right: 5px;">
-   SEED GRANT
-   </a>
-
+   StarkSight is a no-loss prediction market on Starknet where users bet on events without risk. It combines features from existing projects, using protocols like Nimbora to generate yield and distribute winnings while refunding initial bets. [🚀 **SEED GRANT**](https://x.com/thestarksight/status/1836717720143823047) 
+   
 5. **[Starticle](https://github.com/ChiHaoLu/starticle)**: Unlock a new dimension of decentralized publication dapp with Starticle.
 
 6.  **[Solas](https://github.com/krisoshea-eth/Solas)**: Explore the schemas or create a new schema, start making attestations on existing schemas using Solas. 
