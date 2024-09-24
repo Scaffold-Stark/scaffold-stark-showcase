@@ -33,6 +33,14 @@ Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated l
 20. **[P-Share](https://github.com/Afrilend/p-share)**
 21. **[HackerHouser Starknet Brazil](https://github.com/salvadorcamino/hackerhouser_starknet_inbrazil_react_dapp)**
 22. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**
+23. **[Incarnation](https://github.com/IncarnationGG/incarnation-dapp)**: A decentralized trading card game platform created for players, by players.
+24. **[The Marquis](https://github.com/Quantum3-Labs/TheMarquis-ui)**: A revolutionary game studio offering real asset ownership, trading, and true randomness. A series of Starknet games will be available on GooglePlay and the App Store.
+
+## Seed Grants
+
+The **Starknet Foundation** offers **Seed Grants**, a series of financial grants aimed at supporting innovative projects in their early stages of development within the Starknet ecosystem. These grants are designed to help early-stage projects grow and develop. Additionally, we aim to highlight dApps that are using the **Scaffold Stark toolkit** to build their projects quickly and seamlessly, and that have either received or could potentially receive a **Seed Grant**. Our goal is to support their growth and scalability by providing essential resources to bring innovative ideas to life.
+
+More information about Seed Grants: [Starknet Seed Grants](https://www.starknet.io/grants/seed-grants/).
 
 ## Educational Purposes
 
