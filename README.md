@@ -23,7 +23,9 @@ Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated l
 
 4. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**: 
    StarkSight is a no-loss prediction market on Starknet where users bet on events without risk. It combines features from existing projects, using protocols like Nimbora to generate yield and distribute winnings while refunding initial bets. [🚀 **SEED GRANT**](https://x.com/thestarksight/status/1836717720143823047) 
-   
+
+---
+
 5. **[Starticle](https://github.com/ChiHaoLu/starticle)**: Unlock a new dimension of decentralized publication dapp with Starticle.
 
 6.  **[Solas](https://github.com/krisoshea-eth/Solas)**: Explore the schemas or create a new schema, start making attestations on existing schemas using Solas. 
