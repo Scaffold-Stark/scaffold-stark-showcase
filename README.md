@@ -24,7 +24,7 @@ Welcome to the **Scaffold-Stark Showcase**! This repository compiles a curated l
 4. **[StarkSight](https://github.com/BlackStarkGoku/StarkSight)**: 
    StarkSight is a no-loss prediction market on Starknet where users bet on events without risk. It combines features from existing projects, using protocols like Nimbora to generate yield and distribute winnings while refunding initial bets. [🚀 **SEED GRANT**](https://x.com/thestarksight/status/1836717720143823047) 
 
-5. **[StarkStrom](https://github.com/ngjupeng/starkhack-p2p-lending)**:
+5. **[StarkStorm](https://github.com/ngjupeng/starkhack-p2p-lending)**:
    StarkStorm is the P2P lending version of Stormbit on Starknet. This is a peer-to-peer lending platform developed on Starknet. It allows borrowers to request loans and multiple lenders to fund the loans by specifying the amount they want to contribute. [🚀 **SEED GRANT**](https://starknet.notion.site/StarkStorm-01013aff6e444ba9bc316ebf76216a3b)
 
 ---
